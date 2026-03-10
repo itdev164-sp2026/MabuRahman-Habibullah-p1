@@ -1,6 +1,9 @@
 Project Title: Productivity Task Manager
+
 Student Name: Mabu Rahman Habibullah
+
 Course: ITDEV-164 – Web Development
+
 Project: Project 1
 
 1. Project Description
